@@ -1,74 +1,68 @@
-# Pallavi Gautam  
-**Lead Data Scientist | Machine Learning Engineer | Mentor**  
 
-[LinkedIn](#) 
-✉️ pallavigautam1405@gmail.com
-📍 Indore, MP, India
+# Hi, I'm Pallavi Gautam 👋
 
----
+### Data Scientist | Machine Learning Engineer | Mentor  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pallavi-gautam)
 
-## Career Summary  
-Dynamic and awarded Data Scientist recognized for pioneering research in **predictive maintenance** using advanced machine learning methodologies. With a solid theoretical foundation and **4+ years of hands-on experience**, I specialize in **fault prediction in gearboxes** using acoustic emission signals. My work revolves around **machine learning**, **deep learning**, and **data analysis**, driven by a passion to solve complex decision-making challenges with AI.
+📍 **Indore, India**  
+📧 **pallavigautam1405@gmail.com**  
 
 ---
 
-## Skills
+## 👩‍💻 About Me
 
-### Core Expertise  
-- **Machine Learning**: Regression, KNN, Decision Trees, XGBoost, Random Forest, RNN, LSTM RNN  
-- **Deep Learning**: TensorFlow  
-- **NLP**: NLTK, spaCy, Gensim  
-- **Data Science Tools**: Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebooks  
-- **Version Control**: Git  
-- **DevOps**: Docker, Azure DevOps
+I'm a passionate **Data Scientist** and **Machine Learning Engineer** with over 4 years of experience in solving complex decision-making challenges through AI. I specialize in predictive maintenance using advanced machine learning techniques, especially focusing on fault prediction in gearboxes using acoustic emission signals.
 
-### Additional Skills  
-- **Database**: SQL (MySQL), NoSQL (MongoDB)  
-- **Tools**: MATLAB, LabVIEW  
-- **Sensors**: Vibration Sensors, Acoustic Emission Sensors, Microphone Sensors  
+With a robust background in **ML**, **data analysis**, and **deep learning**, I aim to create impactful solutions across diverse industries. Additionally, I mentor aspiring data scientists and engineers, helping them grow and succeed in their careers.
 
 ---
 
-## Experience
+## 🔧 Expertise
 
-### **Lead (AI Team)** | NOBORDERZ  
-_February 2024 – Present_  
-Leading AI development for the **animation and gaming industries**, creating **advanced chatbots** with personality customization, emotion detection, and **lip sync capabilities**. Responsible for technical direction, team mentoring, and ensuring the scalability and performance of AI solutions.
-
-### **Machine Learning Engineer** | DIGITALBLOK  
-_October 2022 – January 2024_  
-Designed and deployed **ML models** for industrial digitalization projects. Worked on **health state forecasting** with supervised and unsupervised models, handling large data sets, and creating **data visualization tools** for decision-making.
-
-### **Research Data Scientist** | IIT INDORE  
-_October 2019 – October 2022_  
-Advanced research in **predictive maintenance** focusing on **gearbox condition monitoring**. Integrated **ML models** into real-time diagnosis systems, optimizing for **fault alerts** and enhancing **model performance** with **hyperparameter tuning**.
-
-### **Assistant Professor** | S.G.S.I.T.S, Indore  
-_August 2017 – May 2019_  
-Developed and taught an industry-focused data analysis curriculum, training students in **statistical modeling**, **machine learning**, and **big data analytics** using **distributed computing frameworks**.
-
-### **Assistant Professor** | Shri Vaishnav Vidyapeeth Vishwavidyalaya  
-_February 2016 – July 2017_  
-Delivered advanced courses on **theoretical statistics** and **probability theory**, providing mentorship and support for research projects.
-
-### **Intern** | Satpura Thermal Power Station  
-_April 2015 – October 2015_  
-Assisted with plant operations, performance evaluation, and efficiency improvement of energy conversion processes.
+- **Languages**: Python, MATLAB, SQL, NoSQL (MongoDB)
+- **ML & DL**: Regression, XGBoost, Random Forest, LSTM RNN, DB Scan, KNN, SVM, ANN, Bidirectional LSTM
+- **Frameworks & Tools**: TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Gensim, SpaCy, Jupyter Notebook, Docker, Azure DevOps
+- **Sensors & Data Acquisition**: Acoustic Emission Sensor, Vibration Sensors, Microphone Sensors, NI Data Acquisition System
+- **Deployment & DevOps**: Docker, Azure, Real-Time APIs, Git
 
 ---
 
-## Education  
-**Master of Technology (MTech), Tribology & Maintenance**  
-_SGSITS, Indore | CGPA: 8/10 | 2013 - 2015_  
+## 🚀 Experience
 
-**Bachelor of Engineering (BE), Mechanical Engineering**  
-_RGPV, Bhopal | CGPA: 7.1/10 | 2009 - 2013_
+### **Lead (AI Team) | NOBORDERZ**  
+*Feb 2024 – Present*  
+Leading the development of AI-driven products in the animation and gaming industries, including cutting-edge chatbots with customizable personalities, emotion detection, and lip sync.
+
+### **Machine Learning Engineer | DigitalBlok**  
+*Oct 2022 – Jan 2024*  
+Developed supervised and unsupervised ML models for industrial asset digitalization, handling high-frequency data for predictive maintenance and health state forecasting.
+
+### **Research Data Scientist | IIT Indore**  
+*Oct 2019 – Oct 2022*  
+Spearheaded predictive maintenance research, focusing on sensor selection, signal processing, and model development for real-time gearbox condition monitoring using advanced ML models.
+
+### **Assistant Professor | SGSITS Indore & SVVV Indore**  
+*2016 – 2019*  
+Equipped students with industry-relevant statistical and ML techniques, focusing on data analysis, predictive modeling, and big data environments.
 
 ---
 
-## Declaration  
-I hereby declare that the above information is true and correct to the best of my knowledge.
+## 📈 Notable Projects
+
+- **Predictive Maintenance in Gearboxes**: Developed ML models (Random Forest, LSTM) to predict wear and fault in industrial gearboxes using acoustic emission data and real-time sensor feeds.
+- **AI-Powered Chatbots**: Created advanced AI chatbots with emotion detection and customizable personalities, used in the gaming industry.
 
 ---
 
-_Pallavi Gautam_
+## 🎓 Education
+
+- **M.Tech in Tribology & Maintenance**  
+  SGSITS, Indore | CGPA: 8/10
+- **B.E. in Mechanical Engineering**  
+  RGPV, Bhopal | CGPA: 7.1/10
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/pallavi-gautam) or drop me an email at **pallavigautam1405@gmail.com**.
